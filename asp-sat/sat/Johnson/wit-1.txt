@@ -1,0 +1,44 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_24.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_24.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 0.970 (s)
+Memory: 88.680 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_25.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_25.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 0.979 (s)
+Memory: 98.805 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_26.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_26.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.135 (s)
+Memory: 109.742 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_27.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_27.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.481 (s)
+Memory: 121.707 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_28.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_28.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.422 (s)
+Memory: 134.355 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_29.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_29.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.579 (s)
+Memory: 148.293 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_30.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_30.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_31.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_31.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_33.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_33.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus  -q -mh -check_compact  /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_34.cnf /public/home/wys/witness/v3/asp-sat/data/sat/grieu/vmpc_34.m-m
+Unknown or empty model

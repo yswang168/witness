@@ -1,0 +1,108 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1006.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1006.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.018 (s)
+Memory: 35.941 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-11953.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-11953.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.127 (s)
+Memory: 36.449 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1434.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1434.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.056 (s)
+Memory: 35.652 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-15606.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-15606.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 0.976 (s)
+Memory: 36.434 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1585.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1585.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.109 (s)
+Memory: 35.961 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-16597.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-16597.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 0.973 (s)
+Memory: 35.941 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1876.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-1876.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.018 (s)
+Memory: 35.672 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-18788.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-18788.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.163 (s)
+Memory: 36.430 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-18972.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-18972.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.060 (s)
+Memory: 35.961 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-19419.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-19419.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.050 (s)
+Memory: 35.695 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-2087.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-2087.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.031 (s)
+Memory: 35.680 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-22556.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-22556.m-m
+YES
+1 1 2 atoms, head>2 clauses, clauses
+Time: 1.735 (s)
+Memory: 35.969 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-25297.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-25297.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.006 (s)
+Memory: 35.926 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-3230.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-3230.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.033 (s)
+Memory: 35.668 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-4208.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-4208.m-m
+YES
+1 1 2 atoms, head>2 clauses, clauses
+Time: 1.801 (s)
+Memory: 36.047 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-6336.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-6336.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.206 (s)
+Memory: 36.871 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-6967.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-6967.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1.067 (s)
+Memory: 36.199 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -MUS_Solver=picomus -check_compact -q /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-9056.cnf /public/home/wys/witness/v3/asp-sat/data/sat/Giraldez/modgen-n200-m90860q08c40-9056.m-m
+YES
+1 1 2 atoms, head>2 clauses, clauses
+Time: 1.750 (s)
+Memory: 36.203 (M)
+The witness is compact: True

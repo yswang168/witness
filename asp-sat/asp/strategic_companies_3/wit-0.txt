@@ -1,0 +1,90 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/01-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/01-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 15.859 (s)
+Memory: 103.887 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/02-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/02-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 18.705 (s)
+Memory: 112.461 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/03-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/03-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 29.028 (s)
+Memory: 134.453 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/04-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/04-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 35.135 (s)
+Memory: 145.137 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/05-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/05-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 37.554 (s)
+Memory: 149.336 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/06-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/06-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 37.156 (s)
+Memory: 149.305 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/07-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/07-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 44.909 (s)
+Memory: 163.453 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/08-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/08-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 48.764 (s)
+Memory: 163.652 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/09-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/09-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 44.424 (s)
+Memory: 167.633 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/11-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/11-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 51.597 (s)
+Memory: 172.148 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/16-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/16-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 112.918 (s)
+Memory: 235.539 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/17-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/17-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 121.240 (s)
+Memory: 239.793 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/18-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/18-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 123.550 (s)
+Memory: 239.680 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/19-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/19-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 128.129 (s)
+Memory: 254.195 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp -q -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/20-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/20-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 128.618 (s)
+Memory: 254.301 (M)
+The witness is compact: True

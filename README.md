@@ -1,0 +1,1 @@
+# Computing minimal beta-witness

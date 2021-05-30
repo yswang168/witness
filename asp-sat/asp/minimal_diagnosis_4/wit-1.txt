@@ -1,0 +1,38 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0023-minimal_diagnosis-174-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0023-minimal_diagnosis-174-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1659.230 (s)
+Memory: 2301.918 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0029-minimal_diagnosis-174-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0029-minimal_diagnosis-174-0.m
+YES
+2 9 47 atoms, head>2 clauses, clauses
+Time: 3245.656 (s)
+Memory: 1554.688 (M)
+The witness is compact: False
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0071-minimal_diagnosis-199-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0071-minimal_diagnosis-199-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 1251.651 (s)
+Memory: 1758.676 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0081-minimal_diagnosis-224-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0081-minimal_diagnosis-224-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0167-minimal_diagnosis-274-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0167-minimal_diagnosis-274-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 7147.781 (s)
+Memory: 4602.445 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0207-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0207-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0210-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0210-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0213-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0213-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0230-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0230-minimal_diagnosis-299-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 2692.510 (s)
+Memory: 2279.855 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0240-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0240-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0248-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0248-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0249-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0249-minimal_diagnosis-299-0.m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0250-minimal_diagnosis-299-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/minimal_diagnosis_4/0250-minimal_diagnosis-299-0.m

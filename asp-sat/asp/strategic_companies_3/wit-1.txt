@@ -1,0 +1,90 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/01-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/01-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 15.885 (s)
+Memory: 103.883 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/02-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/02-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 18.739 (s)
+Memory: 112.453 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/03-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/03-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 29.010 (s)
+Memory: 134.449 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/04-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/04-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 34.286 (s)
+Memory: 145.133 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/05-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/05-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 36.787 (s)
+Memory: 149.332 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/06-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/06-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 36.643 (s)
+Memory: 149.305 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/07-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/07-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 45.278 (s)
+Memory: 163.445 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/08-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/08-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 46.296 (s)
+Memory: 163.645 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/09-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/09-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 45.136 (s)
+Memory: 167.633 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/11-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/11-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 50.163 (s)
+Memory: 172.148 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/16-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/16-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 116.145 (s)
+Memory: 235.531 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/17-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/17-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 120.418 (s)
+Memory: 239.789 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/18-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/18-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 122.359 (s)
+Memory: 239.672 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/19-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/19-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 130.208 (s)
+Memory: 254.188 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -lp  -q -MUS_Solver=picomus -check_compact  /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/20-strategic_companies-0-0.lp /public/home/wys/witness/v3/asp-sat/data/asp/strategic_companies_3/20-strategic_companies-0-0.m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 129.421 (s)
+Memory: 254.297 (M)
+The witness is compact: True

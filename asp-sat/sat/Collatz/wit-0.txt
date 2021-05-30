@@ -1,0 +1,65 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/1mod8.rules.7-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/1mod8.rules.7-7.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/5or7mod8.rules.7-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/5or7mod8.rules.7-7.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/ax-d-4-7-5.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/ax-d-4-7-5.m-m
+YES
+3 14 275 atoms, head>2 clauses, clauses
+Time: 60.464 (s)
+Memory: 199.117 (M)
+The witness is compact: False
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/bx-d-4-7-6.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/bx-d-4-7-6.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/bx-d-4-7-8.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/bx-d-4-7-8.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 11.257 (s)
+Memory: 371.531 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/by-alt-5-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/by-alt-5-7.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 12.542 (s)
+Memory: 546.309 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/C3-2-31.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/C3-2-31.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/cannonball-opt-y.rules.4-10.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/cannonball-opt-y.rules.4-10.m-m
+Unknown or empty model
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/cz-d-4-7-5.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/cz-d-4-7-5.m-m
+YES
+1 1 12 atoms, head>2 clauses, clauses
+Time: 13.834 (s)
+Memory: 199.027 (M)
+The witness is compact: False
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/full-ax-xa.rules.7-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/full-ax-xa.rules.7-7.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 19.291 (s)
+Memory: 877.117 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/full-by-za.rules.5-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/full-by-za.rules.5-7.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 14.292 (s)
+Memory: 355.062 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/less-cy-caa.rules.4-9.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/less-cy-caa.rules.4-9.m-m
+YES
+5 6 128 atoms, head>2 clauses, clauses
+Time: 105.214 (s)
+Memory: 385.438 (M)
+The witness is compact: False
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/less-cy-caa.rules.6-4.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/less-cy-caa.rules.6-4.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 6.314 (s)
+Memory: 384.367 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/mod8-abd-yad.rules.7-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/mod8-abd-yad.rules.7-7.m-m
+YES
+0 0 0 atoms, head>2 clauses, clauses
+Time: 22.252 (s)
+Memory: 1108.449 (M)
+The witness is compact: True
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -check_compact /public/home/wys/witness/v3/asp-sat/data/Collatz/mod8-bbd-zbd.rules.7-7.cnf /public/home/wys/witness/v3/asp-sat/data/Collatz/mod8-bbd-zbd.rules.7-7.m-m
+Unknown or empty model
